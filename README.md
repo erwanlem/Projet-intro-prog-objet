@@ -1,4 +1,4 @@
-# Projet-intro-prog-objet
+# Projet introduction programmation objet
 Réalisation d'un projet en Java visant à mettre en pratique la programmation objet
 
 Un berger et son troupeau se sont abrités de la pluie dans un vieux château. Se rendant compte que
